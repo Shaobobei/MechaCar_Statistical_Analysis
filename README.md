@@ -32,9 +32,15 @@ Yes, the dataset shows that this linear model predicts the mpg of MechaCar proto
 
 ## T-Tests on Suspension Coils
 ![t-test](https://user-images.githubusercontent.com/107021649/201633924-623064a2-1bc6-468b-aa4f-489e6d697f22.png)
+t test for each lot
 ![lot1](https://user-images.githubusercontent.com/107021649/201633974-2bc64f7f-2aa1-4f3d-bc8d-425ede06044a.png)
 ![lot2](https://user-images.githubusercontent.com/107021649/201634065-3c2d9c30-4f46-4b31-93cf-7507c7da7014.png)
 ![lot3](https://user-images.githubusercontent.com/107021649/201634094-cc093781-554f-4268-b3f1-42a9c19432fc.png)
 
+### Design a Study Comparing the MechaCar to the Competition
+•What metric or metrics are you going to test?
+-cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating
+•What is the null hypothesis or alternative hypothesis?
 
-
+•What statistical test would you use to test the hypothesis? And why?
+•What data is needed to run the statistical test?
