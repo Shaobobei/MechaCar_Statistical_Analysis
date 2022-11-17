@@ -31,3 +31,10 @@ Yes, the dataset shows that this linear model predicts the mpg of MechaCar proto
 -Yes, overall in the total summary the variance is 62.29 which is well within the 100 PSI. It did not meet in the lot individually, as we can see in the lot summary, lot 3 has a much higher variance of 170 PSI
 
 ## T-Tests on Suspension Coils
+![t-test](https://user-images.githubusercontent.com/107021649/201633924-623064a2-1bc6-468b-aa4f-489e6d697f22.png)
+![lot1](https://user-images.githubusercontent.com/107021649/201633974-2bc64f7f-2aa1-4f3d-bc8d-425ede06044a.png)
+![lot2](https://user-images.githubusercontent.com/107021649/201634065-3c2d9c30-4f46-4b31-93cf-7507c7da7014.png)
+![lot3](https://user-images.githubusercontent.com/107021649/201634094-cc093781-554f-4268-b3f1-42a9c19432fc.png)
+
+
+
