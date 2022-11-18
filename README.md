@@ -38,9 +38,20 @@ t test for each lot
 ![lot3](https://user-images.githubusercontent.com/107021649/201634094-cc093781-554f-4268-b3f1-42a9c19432fc.png)
 
 ### Design a Study Comparing the MechaCar to the Competition
+How the MechaCar performs against the competition and to make the consumer choose MechaCar over the comptition
+
 •What metric or metrics are you going to test?
--cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating
+
+- we can test cost of vehicle and city or highway fuel efficiency
+ 
 •What is the null hypothesis or alternative hypothesis?
 
+- there are no direct correlation between cost of the vehichle and fuel efficiency so the alterbative hypothesis would be that if money is tight the consumers they would want to buy a gas eifficent car (so they dont have to go to the pump as often) at an affordable cost
+
 •What statistical test would you use to test the hypothesis? And why?
+
+-since there will be 2 veriables i would use the Multiple linear regression 
+
 •What data is needed to run the statistical test?
+
+- i would need a continuous data type
